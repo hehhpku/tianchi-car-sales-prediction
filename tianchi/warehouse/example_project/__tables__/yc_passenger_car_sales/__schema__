@@ -1,0 +1,3 @@
+project=example_project
+table=yc_passenger_car_sales
+columns=sale_date:STRING,province_id:BIGINT,city_id:BIGINT,class_id:BIGINT,sale_quantity:BIGINT,brand_id:BIGINT,compartment:BIGINT,type_id:BIGINT,level_id:BIGINT,department_id:BIGINT,tr:STRING,gearbox_type:STRING,displacement:STRING,if_charging:STRING,price_level:STRING,driven_type_id:BIGINT,fuel_type_id:BIGINT,newenergy_type_id:BIGINT,emission_standards_id:BIGINT,if_mpv_id:BIGINT,if_luxurious_id:BIGINT,power:STRING,cylinder_number:BIGINT,car_length:BIGINT,car_width:BIGINT,car_height:BIGINT,total_quality:BIGINT,equipment_quality:BIGINT,rated_passenger:STRING,wheelbase:BIGINT,front_track:BIGINT,rear_track:BIGINT

@@ -1,0 +1,3 @@
+project=example_project
+table=car_sales_origin
+columns=sale_date:STRING,province_id:BIGINT,city_id:BIGINT,class_id:BIGINT,sale_quantity:BIGINT

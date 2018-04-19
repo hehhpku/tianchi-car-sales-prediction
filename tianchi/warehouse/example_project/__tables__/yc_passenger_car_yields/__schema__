@@ -1,0 +1,3 @@
+project=example_project
+table=yc_passenger_car_yields
+columns=produce_date:string,class_id:bigint,produce_quantity:bigint
